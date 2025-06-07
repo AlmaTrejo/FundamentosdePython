@@ -1,4 +1,4 @@
-if __name__ == " __main__":
+if __name__ == "__main__":
 
     print("*****Operadores Aritmeticos*****")
     print("Operador suma, 5+6=", 5 + 6 )    #
@@ -16,6 +16,23 @@ if __name__ == " __main__":
 
     print("*****Operadores Logicos*****")
     print("True and True", True and True)
-#Hacer las tablas de verdad
+    print("True and False", True and False)
+    print("False and True", False and True)
+    print("False and False", False and False)
+    print("not True", not True)
+    print("not False", not False)
+    print("True or True", True or True)
+    print("True or False", True or False)
+    print("False or True", False or True)
+    print("False or False", False or False)
+    
+    print("*****Operadores de Comparación*****")
+    print(" 5 == 6:", 5==6 )
+    print(" 5 != 6:", 5!=6 )
+    print(" 5 > 6:", 5>6 )
+    print(" 5 < 6:", 5<6 )
+    print(" 5 >= 6:", 5>=6 )
+    print(" 5 <= 6:", 5<=6 )
 
-# Ejemplo de cada operador de comparación
+
+
