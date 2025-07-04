@@ -1,6 +1,5 @@
 import turtle as t
 
-
 t.pensize(2)
 t.color("black")
 
@@ -54,8 +53,5 @@ t.back(15)
 t.left(135)
 t.end_fill()
 
-
-
-# Finalizar
 t.hideturtle()
 t.done()
